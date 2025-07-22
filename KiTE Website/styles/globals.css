@@ -1,3 +1,7 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
 @import url('https://fonts.googleapis.com/css2?family=Chewy&display=swap');
 
 @custom-variant dark (&:is(.dark *));

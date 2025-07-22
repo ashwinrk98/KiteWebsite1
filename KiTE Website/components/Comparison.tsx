@@ -1,4 +1,4 @@
-import exampleImage from 'figma:asset/d0d1ade6cd19537b09fe3b405418044d5a1a1ab0.png';
+import exampleImage from '../assets/placeholder.png';
 import { ImageWithFallback } from './figma/ImageWithFallback';
 
 export default function Comparison() {

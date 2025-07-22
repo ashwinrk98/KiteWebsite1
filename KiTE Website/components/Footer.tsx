@@ -1,7 +1,7 @@
 import { motion } from 'framer-motion';
 import { Shield, FileText } from 'lucide-react';
-import kiteNutritionLogo from 'figma:asset/2a6091bb955b5ddb7d3b32a83e5abf7439a5a095.png';
-import fssaiLogo from 'figma:asset/6af98d0745e653b7ab08c291d0f9ba294aae0908.png';
+import kiteNutritionLogo from '../assets/placeholder.png';
+import fssaiLogo from '../assets/placeholder.png';
 
 export default function Footer() {
   return (

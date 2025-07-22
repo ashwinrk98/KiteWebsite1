@@ -1,6 +1,6 @@
-import imgRectangle43 from "figma:asset/839da3fff0c437eed8ea51029303b18622c14dcd.png";
-import imgRectangle42 from "figma:asset/57c93b60564991d0db7b7e0e3518836a3e4cdc49.png";
-import kitchenSceneImage from "figma:asset/21d2ef31a125fe1370656beec72e3728f2bb309c.png";
+import imgRectangle43 from "../assets/placeholder.png";
+import imgRectangle42 from "../assets/placeholder.png";
+import kitchenSceneImage from "../assets/placeholder.png";
 import Rectangle50 from "../imports/Rectangle50";
 
 export default function Work() {

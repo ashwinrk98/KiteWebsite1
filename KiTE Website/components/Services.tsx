@@ -1,10 +1,10 @@
 import { motion, useInView } from 'framer-motion';
 import { useRef } from 'react';
 import { Palette, Monitor, TrendingUp, Zap } from 'lucide-react';
-import proteinBarImage from 'figma:asset/ec66fc0183395d1076ffe034857af99c7d0109c7.png';
-import cookiesCreamBarImage from 'figma:asset/1d13b2739e66c2304d0065a1647d6c2cf9b1ae9c.png';
-import mangoBarImage from 'figma:asset/1a70a9f56e446cc1013179ef01957b644c08881d.png';
-import coconutWaterBarImage from 'figma:asset/f9875d779be3ab63a9e500a394a6e0713aa59559.png';
+import proteinBarImage from '../assets/placeholder.png';
+import cookiesCreamBarImage from '../assets/placeholder.png';
+import mangoBarImage from '../assets/placeholder.png';
+import coconutWaterBarImage from '../assets/placeholder.png';
 
 export default function Services() {
   // Create refs for each protein bar image

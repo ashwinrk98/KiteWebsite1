@@ -1,4 +1,4 @@
-import imgRectangle42 from "figma:asset/57c93b60564991d0db7b7e0e3518836a3e4cdc49.png";
+import imgRectangle42 from "../assets/placeholder.png";
 
 export default function Component3() {
   return (
