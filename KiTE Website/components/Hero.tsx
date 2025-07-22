@@ -1,9 +1,9 @@
 import { motion, useScroll, useTransform, AnimatePresence } from 'framer-motion';
 import { useRef, useState, useEffect, useCallback } from 'react';
-import kiteImage from 'figma:asset/2a6091bb955b5ddb7d3b32a83e5abf7439a5a095.png';
-import backgroundImage from 'figma:asset/5a2aca025762ad4967adbe64a29abc940d116542.png';
+import kiteImage from '../assets/placeholder.png';
+import backgroundImage from '../assets/placeholder.png';
 
-import updatedAlphonsoMangoProteinBarImage from 'figma:asset/1a70a9f56e446cc1013179ef01957b644c08881d.png';
+import updatedAlphonsoMangoProteinBarImage from '../assets/placeholder.png';
 import updatedDoubleChocolateProteinBarImage from 'figma:asset/ec66fc0183395d1076ffe034857af99c7d0109c7.png';
 import latestCookiesCreamProteinBarImage from 'figma:asset/1d13b2739e66c2304d0065a1647d6c2cf9b1ae9c.png';
 import finalCoconutWaferProteinBarImage from 'figma:asset/f9875d779be3ab63a9e500a394a6e0713aa59559.png';
@@ -592,7 +592,7 @@ export default function Hero() {
         const lastFadedIndex = Math.max(0, currentFadeIndex);
         setReverseIndex(lastFadedIndex);
         setTimeout(() => {
-          if (lastFadsssedIndex >= 0) {
+          if (lastFadedIndex >= 0) {
             setReverseIndex(lastFadedIndex - 1);
           }
         }, 81);
@@ -2250,7 +2250,7 @@ export default function Hero() {
                     marginRight: '0.1em'
                   }}
                 >
-                  % ADDAD
+                  % ADDED
                 </div>
                 <div className="text-gray-800 text-xl md:text-2xl font-[Chewy] font-bold tracking-wider drop-shadow-lg -mt-1"
                   style={{ textShadow: '0 2px 8px rgba(0,0,0,0.3), 0 0 20px rgba(0,0,0,0.2)' }}
